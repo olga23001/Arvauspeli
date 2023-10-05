@@ -17,12 +17,12 @@ public class arvauspeli_main {
 		name = in.nextLine();
 		counter++;
 		
-		if (name.equals("Emma"))
+		if (name.equals("Noora"))
 		{
 		System.out.println("Congratulations!");
 		guesses = guesses + 1;
 		
-		if (name.equals("Emma"))
+		if (name.equals("Noora"))
 		System.out.println("You guessed " + guesses + " times.");
 		guesses = guesses + 1;
 		break;
