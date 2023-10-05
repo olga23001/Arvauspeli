@@ -13,7 +13,7 @@ public class arvauspeli_main {
 		String nothing = "";
 		
 		while (counter < 5)
-		{System.out.println("Guess my name (type stop to exit)");
+		{System.out.println("Guess my name! (type stop to exit)");
 		name = in.nextLine();
 		counter++;
 		
