@@ -19,7 +19,7 @@ public class arvauspeli_main {
 		
 		if (name.equals("Noora"))
 		{
-		System.out.println("Congratulations!");
+		System.out.println("Congratulations! You guessed it right!");
 		guesses = guesses + 1;
 		
 		if (name.equals("Noora"))
